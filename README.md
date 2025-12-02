@@ -93,7 +93,7 @@ Para colaborar con el código de este repositorio (scripts de limpieza, entrenam
 
     ```bash
     git clone https://github.com/Capibara-LLM/Capibara-LLM.git
-    cd capibara-llmit
+    cd capibara-llm
     ```
 
 2.  Instala las dependencias:
