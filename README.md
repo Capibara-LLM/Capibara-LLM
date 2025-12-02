@@ -92,8 +92,8 @@ Para colaborar con el código de este repositorio (scripts de limpieza, entrenam
 1.  Clona el repositorio:
 
     ```bash
-    git clone [https://github.com/Capibara-LLM/capibara-llm.git](https://github.com/Capibara-LLM/capibara-llm.git)
-    cd capibara-llm
+    git clone https://github.com/Capibara-LLM/Capibara-LLM.git
+    cd capibara-llmit
     ```
 
 2.  Instala las dependencias:
@@ -111,7 +111,7 @@ Estamos buscando colaboradores tanto técnicos como lingüísticos.
   * **Desarrolladores:** Ayuda a limpiar datos, optimizar scripts de entrenamiento o crear demos.
   * **Hablantes Nativos:** Ayuda a validar las respuestas de nuestros modelos y corregir traducciones.
 
-Consulta nuestro [CONTRIBUTING.md](https://www.google.com/search?q=./CONTRIBUTING.md) para saber cómo empezar.
+Consulta nuestro [CONTRIBUTING.md](CONTRIBUTING.md) para saber cómo empezar.
 
 -----
 
