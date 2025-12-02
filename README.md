@@ -70,8 +70,8 @@ print(tokenizer.decode(outputs[0][input_ids.shape[-1]:], skip_special_tokens=Tru
 
 La comida de nuestros Capibaras. Estos datasets han sido procesados para entrenamiento de LLMs:
 
-  * 📂 **[Capibara-LLM/dataset-guarani-jopara-v01](https://www.google.com/search?q=https://huggingface.co/datasets/Capibara-LLM/dataset-guarani-jopara-v01)**: Dataset de instrucciones estilo Alpaca traducido y adaptado al Guaraní-Jopará.
-  * 📂 **[Capibara-LLM/gn-multi-affective-alpaca](https://www.google.com/search?q=https://huggingface.co/datasets/Capibara-LLM/gn-multi-affective-alpaca)**: Corpus masivo limpio de fuentes web y literatura, enfocado en análisis de sentimiento y tareas generales.
+  * 📂 **[Capibara-LLM/dataset-guarani-jopara-v01](https://huggingface.co/datasets/Capibara-LLM/dataset-guarani-jopara-v01)**: Dataset de instrucciones estilo Alpaca traducido y adaptado al Guaraní-Jopará.
+  * 📂 **[Capibara-LLM/gn-multi-affective-alpaca](https://huggingface.co/datasets/Capibara-LLM/gn-multi-affective-alpaca)**: Corpus masivo limpio de fuentes web y literatura, enfocado en análisis de sentimiento y tareas generales.
 
 **Cómo cargar los datos en Python:**
 
