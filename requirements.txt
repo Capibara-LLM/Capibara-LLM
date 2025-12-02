@@ -1,0 +1,30 @@
+# --- PyTorch & Core ---
+# Nota: La versión de torch depende de tu versión de CUDA. 
+# El script original detecta esto dinámicamente.
+torch>=2.4.0
+
+# --- Unsloth & Optimization ---
+unsloth
+unsloth_zoo
+bitsandbytes
+accelerate
+peft
+triton
+cut_cross_entropy
+
+# --- Specific Version Pins (Hardcoded in script) ---
+# Estas versiones son explícitas en el código original para asegurar compatibilidad
+transformers==4.56.2
+trl==0.22.2
+datasets==4.3.0
+huggingface_hub>=0.34.0
+
+# --- Utilities & Data Processing ---
+sentencepiece
+protobuf
+hf_transfer
+
+# --- Optional / Local Development ---
+# El script usa 'google.colab'. Si corres esto localmente, necesitarás
+# python-dotenv para manejar los secretos (HF_TOKEN) en lugar de userdata.
+python-dotenv
